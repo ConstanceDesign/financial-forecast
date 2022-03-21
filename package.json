@@ -1,0 +1,26 @@
+{
+  "name": "financial-forecast",
+  "version": "1.0.0",
+  "description": "PWA budget tracking app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnugglesMcGee/financial-forecast.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnugglesMcGee/financial-forecast/issues"
+  },
+  "homepage": "https://github.com/SnugglesMcGee/financial-forecast#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.7",
+    "morgan": "^1.10.0"
+  }
+}
