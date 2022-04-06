@@ -59,7 +59,7 @@ Coming soon!
 
 ## Deployment Link
 
-tbd
+Heroku
 
 ## Additional Information
 
