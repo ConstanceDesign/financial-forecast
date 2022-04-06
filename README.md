@@ -39,7 +39,7 @@ In Visual Code Studio or another coding software of your choice, run this applic
 
 ## Built With
 
-Express.js for routing, a MongoDB database, the Mongoose ODM, Javascript,Node.js,Git
+Express.js for routing, a MongoDB database, the Mongoose ODM, Javascript, Node.js, HTML, CSS, Git
 
 ## Contribution
 
