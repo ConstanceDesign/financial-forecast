@@ -51,7 +51,8 @@ To run tests, get the source code and clone at [GitHub/SnugglesMcGee](https://gi
 
 ## Visuals
 
-Coming soon!
+![financial-forecast-app](https://user-images.githubusercontent.com/93297081/162068288-1416ee0e-1f11-4f6c-9cba-4e0a198be62c.jpeg)
+
 
 ## GitHub Link
 
