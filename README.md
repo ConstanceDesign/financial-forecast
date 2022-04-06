@@ -47,7 +47,7 @@ This app is open to contributions. Open up an Issue with suggested improvements 
 
 ## Testing
 
-To run tests, get the source code and clone at [GitHub](https://github.com/SnugglesMcGee/financial-forecast) and install dependencies.
+To run tests, get the source code and clone at [GitHub/SnugglesMcGee](https://github.com/SnugglesMcGee/financial-forecast) and install dependencies.
 
 ## Visuals
 
