@@ -66,4 +66,4 @@ Heroku
 - Date: April 6, 2022
 - Author: Constance Mitchell
 - Email: [info@constance.design](mailto:user@example.com)
-- Acknowledgements: Many thanks always to UofT Coding Bootcamp instructor Gabe Perry, and TA's Ishmael Lopez and Estiven Salazar.
+- Acknowledgements: Many thanks always to UofT Coding Bootcamp instructor Gabe Perry, TA's Ishmael Lopez and Estiven Salazar.
