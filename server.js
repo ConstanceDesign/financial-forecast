@@ -17,10 +17,13 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(MONGODB_URI || "mongodb://localhost:3001/financial-forecast", {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-});
+mongoose.connect(
+  MONGODB_URI || "mongodb://localhost:32251/financial-forecast",
+  {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  }
+);
 
 const URI = process.env.MONGODB_URL;
 
