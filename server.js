@@ -17,25 +17,13 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-// mongoose.connect(MONGODB_URI, {
-//   useNewUrlParser: true,
-//   useFindAndModify: false,
-// });
+mongoose.connect(MONGODB_URI, {
+  useNewUrlParser: true,
+  // useFindAndModify: false,
+  useUnifiedTopology: true,
+});
 
 const URI = process.env.MONGODB_URL;
-
-mongoose.connect(
-  URI,
-  {
-    useNewUrlParser: true,
-
-    useUnifiedTopology: true,
-  },
-  (err) => {
-    if (err) throw err;
-    console.log("Connected to MongoDB!!!");
-  }
-);
 
 // routes
 app.use(require("./routes/api.js"));
